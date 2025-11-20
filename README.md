@@ -21,6 +21,11 @@ Zingen é um projeto front-end criado com **HTML** e **CSS**, focado em um layou
 
 ---
 
+## Print da tela
+
+<img width="1362" height="712" alt="image" src="https://github.com/user-attachments/assets/3c97da6d-bd72-423a-8577-265a5736d5f0" />
+
+
 ## 🚀 Como Rodar o Projeto
 
 Clone o repositório:
